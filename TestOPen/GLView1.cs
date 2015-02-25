@@ -25,6 +25,8 @@ namespace TestOPen
 
 			// Run the render loop
 			Run ();
+
+			string gg;
 		}
 
 		// This method is called everytime the context needs
